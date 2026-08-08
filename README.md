@@ -10,7 +10,6 @@
 </p>
 <p>
 <a href="https://developer.spotify.com/documentation/web-api"><img src="https://img.shields.io/badge/Spotify-Web_API-1DB954?style=for-the-badge&logo=spotify&logoColor=1DB954&labelColor=302D41" alt="Spotify Web API"></a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Скачивания-нет-F9E2AF?style=for-the-badge&logoColor=F9E2AF&labelColor=302D41" alt="Без скачивания">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Лицензия-MIT-FAB387?style=for-the-badge&logoColor=FAB387&labelColor=302D41" alt="MIT">
 </p>
 </div>
