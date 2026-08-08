@@ -1,7 +1,7 @@
 # spotify-telegram-sync
 
 <div align="center">
-<img src="./assets/header.svg" alt="Spotify → Telegram" width="420">
+<img src="./assets/header.svg" alt="Spotify → Telegram" width="460">
 <p>
 <a href="https://github.com/bot4pi"><img src="https://img.shields.io/badge/Author-coupdev-89b4fa?style=for-the-badge&logo=github&logoColor=white&labelColor=302D41" alt="Author"></a>&nbsp;&nbsp;
 <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-22_LTS-A6E3A1?style=for-the-badge&logo=nodedotjs&logoColor=A6E3A1&labelColor=302D41" alt="Node.js"></a>&nbsp;&nbsp;
