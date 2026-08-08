@@ -1,0 +1,28 @@
+{
+  "name": "spotify-telegram-sync",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "Играющий в Spotify трек — в музыку профиля Telegram. MTProto, mtcute.",
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "dev": "tsx watch src/index.ts",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "login": "tsx scripts/login.ts",
+    "spotify:login": "tsx scripts/spotify-login.ts"
+  },
+  "dependencies": {
+    "@mtcute/node": "^0.31.0",
+    "dotenv": "^17.0.0",
+    "pino": "^9.0.0",
+    "pino-pretty": "^13.0.0",
+    "tsx": "^4.0.0",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  }
+}
