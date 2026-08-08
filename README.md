@@ -3,7 +3,7 @@
 <div align="center">
 <img src="./assets/header.svg" alt="Spotify → Telegram" width="460">
 <p>
-<a href="https://github.com/bot4pi"><img src="https://img.shields.io/badge/Author-coupdev-89b4fa?style=for-the-badge&logo=github&logoColor=white&labelColor=302D41" alt="Author"></a>&nbsp;&nbsp;
+<a href="https://github.com/bot4pi"><img src="https://img.shields.io/badge/Author-coup-89b4fa?style=for-the-badge&logo=github&logoColor=white&labelColor=302D41" alt="Author"></a>&nbsp;&nbsp;
 <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-22_LTS-A6E3A1?style=for-the-badge&logo=nodedotjs&logoColor=A6E3A1&labelColor=302D41" alt="Node.js"></a>&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-strict-89DCEB?style=for-the-badge&logo=typescript&logoColor=89DCEB&labelColor=302D41" alt="TypeScript"></a>&nbsp;&nbsp;
 <a href="https://mtcute.dev"><img src="https://img.shields.io/badge/mtcute-MTProto-CBA6F7?style=for-the-badge&logo=telegram&logoColor=CBA6F7&labelColor=302D41" alt="mtcute"></a>
