@@ -1,5 +1,22 @@
 # spotify-telegram-sync
 
+<div align="center">
+<img src="./assets/header.svg" alt="Spotify → Telegram" width="420">
+<p>
+<a href="https://github.com/bot4pi"><img src="https://img.shields.io/badge/Author-coupdev-89b4fa?style=for-the-badge&logo=github&logoColor=white&labelColor=302D41" alt="Author"></a>&nbsp;&nbsp;
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-22_LTS-A6E3A1?style=for-the-badge&logo=nodedotjs&logoColor=A6E3A1&labelColor=302D41" alt="Node.js"></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-strict-89DCEB?style=for-the-badge&logo=typescript&logoColor=89DCEB&labelColor=302D41" alt="TypeScript"></a>&nbsp;&nbsp;
+<a href="https://mtcute.dev"><img src="https://img.shields.io/badge/mtcute-MTProto-CBA6F7?style=for-the-badge&logo=telegram&logoColor=CBA6F7&labelColor=302D41" alt="mtcute"></a>
+</p>
+<p>
+<a href="https://developer.spotify.com/documentation/web-api"><img src="https://img.shields.io/badge/Spotify-Web_API-1DB954?style=for-the-badge&logo=spotify&logoColor=1DB954&labelColor=302D41" alt="Spotify Web API"></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Скачивания-нет-F9E2AF?style=for-the-badge&logoColor=F9E2AF&labelColor=302D41" alt="Без скачивания">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Лицензия-MIT-FAB387?style=for-the-badge&logoColor=FAB387&labelColor=302D41" alt="MIT">
+</p>
+</div>
+
+---
+
 Трек, который играет у тебя в Spotify, автоматически становится **музыкой профиля** в Telegram. Доиграл — снимается, начался следующий — встаёт на его место. Плеер молчит — в профиле пусто.
 
 Работает от личного аккаунта через **MTProto** ([mtcute](https://mtcute.dev)), а не через Bot API: музыку профиля боту поставить нельзя, это возможность обычного пользователя.
